@@ -34,7 +34,6 @@ public class Recipe {
 				ingredients.remove(i);
 				break;
 			}
-
 		}
 	}
 	
